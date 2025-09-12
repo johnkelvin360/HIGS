@@ -1,7 +1,9 @@
 {
     "files.associations": {
         "auto_fitter.C": "cpp",
-        "new_auto_fitter.C": "cpp"
+        "new_auto_fitter.C": "cpp",
+        "run_by_run_cal.C": "cpp",
+        "auto_fitter_with_ref.C": "cpp"
     },
     "C_Cpp.errorSquiggles": "disabled"
 }
